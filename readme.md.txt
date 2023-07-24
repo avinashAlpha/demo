@@ -23,6 +23,4 @@ public static void main(String[] args) throws InterruptedException {
 	WebElement login=driver.findElement(By.xpath("//button['Log in']"));
 	login.click();
 }
-}
-
-Hi my name is Palash Siyal
+avinash is name my
